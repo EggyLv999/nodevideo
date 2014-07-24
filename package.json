@@ -1,0 +1,23 @@
+{
+  "name": "video",
+  "version": "0.0.0",
+  "description": "video streaming",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EggyLv999/nodevideo.git"
+  },
+  "author": "Edgar Chen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EggyLv999/nodevideo/issues"
+  },
+  "homepage": "https://github.com/EggyLv999/nodevideo",
+  "dependencies": {
+    "express": "^4.6.1",
+    "ws": "^0.4.31"
+  }
+}
